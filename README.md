@@ -10,6 +10,6 @@ Hello World!
 
 [Link to my github.io](https://6510685016.github.io)
 
-![Kasidit Kornsang](.\picture\IMG_0672.JPG)
+![Kasidit Kornsang](picture/IMG_0672.JPG)
 
 27.8.2567
