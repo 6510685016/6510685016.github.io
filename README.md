@@ -2,10 +2,14 @@
 
 Hello World!
 
-# I'm Kasidit Kornsang 
+# Hello!, My name is Kasidit Kornsang 
 
-## 6510685016
+## I'm studying Computer Engineering at Faculty of Engineering, Thammasat University. Nice to meet you!
 
-[]
+## Student ID : 6510685016
 
-26.8.2567
+[Link to my github.io](https://6510685016.github.io)
+
+![Kasidit Kornsang](picture\IMG_0672.JPG)
+
+27.8.2567
